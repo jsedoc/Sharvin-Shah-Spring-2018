@@ -8,3 +8,6 @@ For the class last spring when we covered attention, I used https://talbaumel.gi
 I also pointed everyone to Chris Olah's blog https://distill.pub/2016/augmented-rnns/
 
 Although to mention how they work, I think I gained the most insight into this from the pointer networks paper https://arxiv.org/pdf/1506.03134.pdf. For some reason, I had really thought of attention closer to the pointer network. 
+
+
+8.4 - 8.6 https://web.stanford.edu/~jurafsky/slp3/8.pdf 
