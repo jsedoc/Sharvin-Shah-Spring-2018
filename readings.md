@@ -11,3 +11,12 @@ Although to mention how they work, I think I gained the most insight into this f
 
 
 8.4 - 8.6 https://web.stanford.edu/~jurafsky/slp3/8.pdf 
+
+---
+# (1/22)
+
+http://www.deeplearningbook.org/contents/rnn.html
+http://www.statmt.org/mtma15/uploads/mtma15-neural-mt.pdf
+https://www.aclweb.org/anthology/D14-1179
+https://web.stanford.edu/~jurafsky/slp3/8.pdf
+http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf
