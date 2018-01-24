@@ -19,6 +19,8 @@ http://www.deeplearningbook.org/contents/rnn.html 10.4-10.6 10.10
 
 http://www.statmt.org/mtma15/uploads/mtma15-neural-mt.pdf
 
+https://arxiv.org/pdf/1703.01619.pdf
+
 https://www.aclweb.org/anthology/D14-1179
 
 https://web.stanford.edu/~jurafsky/slp3/8.pdf
