@@ -15,7 +15,7 @@ Although to mention how they work, I think I gained the most insight into this f
 ---
 # (1/22)
 
-http://www.deeplearningbook.org/contents/rnn.html
+http://www.deeplearningbook.org/contents/rnn.html 10.4-10.6 10.10
 
 http://www.statmt.org/mtma15/uploads/mtma15-neural-mt.pdf
 
