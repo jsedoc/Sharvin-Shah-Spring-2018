@@ -26,3 +26,10 @@ https://www.aclweb.org/anthology/D14-1179
 https://web.stanford.edu/~jurafsky/slp3/8.pdf
 
 http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf
+
+---
+# (1/30)
+
+https://arxiv.org/pdf/1703.01619.pdf
+
+https://web.stanford.edu/~jurafsky/slp3/8.pdf
