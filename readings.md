@@ -33,3 +33,10 @@ http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech201
 https://arxiv.org/pdf/1703.01619.pdf
 
 https://web.stanford.edu/~jurafsky/slp3/8.pdf
+
+---
+# (2/14) 
+
+https://arxiv.org/pdf/1503.00075.pdf
+
+https://github.com/dasguptar/treelstm.pytorch
